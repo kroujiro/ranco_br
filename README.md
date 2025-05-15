@@ -10,3 +10,5 @@ https://github.com/user-attachments/assets/00dafb3f-481d-47e3-9fa5-810ab24cfc23
 ![Background](https://github.com/user-attachments/assets/ad1d39de-20ab-4366-b612-c1e17884886e)
 
 Download: https://github.com/kroujiro/ranco_br/releases/download/rpg/Ranco.zip
+
+<a href="https://kroujiro.github.io/kroujiro" title="Criador">O Criador</a>
